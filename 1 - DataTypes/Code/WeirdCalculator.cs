@@ -4,12 +4,6 @@ namespace DataTypes.Code
 {
 	public static class WeirdCalculator
 	{
-        /// <summary>
-        /// Adding a comment
-        /// </summary>
-        /// <param name="firstValue"></param>
-        /// <param name="secondValue"></param>
-        /// <returns></returns>
 		public static long SimpleWholeNumberAdd(int firstValue, long secondValue)
 		{
 			return (long)firstValue + secondValue;
